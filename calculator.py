@@ -16,7 +16,7 @@ def sum(x,y):
 def diff(x,y):
     diff=int(x)-int(y)
     print(f"the diff is {diff}")
-
+ 
 
 def multiply(x,y):
     mul =int(x)* int(y)
