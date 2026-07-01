@@ -4,7 +4,7 @@
 
 def main():
     x,y =input("enter 2 numbers").split()
-    sum(x,y)
+    sum(x,y)                               
     diff(x,y)
     multiply(x,y)
  
