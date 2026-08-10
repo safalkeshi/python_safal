@@ -1,0 +1,27 @@
+
+order_id,order_date,customer_name,category,product_name,quantity,unit_price,status
+1001,2026-01-15,Alice Smith,Electronics,Wireless Headphones,1,89.99,Shipped
+1002,2026-01-16,Bob Jones,Home & Kitchen,Coffee Maker,2,45.50,Delivered
+1003,2026-01-18,Charlie Brown,Books,Data Science Guide,1,29.95,Delivered
+1004,2026-01-20,Diana Prince,Electronics,Mechanical Keyboard,1,120.00,Processing
+1005,2026-01-22,Evan Wright,Fitness,Yoga Mat,3,19.99,Shipped
+
+
+
+
+emp_id,first_name,last_name,department,job_title,salary,years_experience,remote_status
+E01,Sarah,Chen,Engineering,Senior Backend Developer,135000,7,Full Remote
+E02,Marcus,Vance,Data Science,Machine Learning Engineer,142000,5,Hybrid
+E03,Elena,Rostova,Product,Product Manager,128000,8,On-Site
+E04,David,Kim,Design,UI/UX Lead,115000,6,Hybrid
+E05,Aisha,Patel,Engineering,DevOps Engineer,130000,4,Full Remote
+
+
+
+
+book_id,title,author,genre,publication_year,pages,rating,in_stock
+B001,Dune,Frank Herbert,Science Fiction,1965,412,4.7,TRUE
+B002,To Kill a Mockingbird,Harper Lee,Classic Fiction,1960,281,4.8,FALSE
+B003,Designing Data-Intensive Applications,Martin Kleppmann,Technology,2017,616,4.9,TRUE
+B004,Atomic Habits,James Clear,Self-Help,2018,320,4.6,TRUE
+B005,The Hobbit,J.R.R. Tolkien,Fantasy,1937,310,4.7,FALSE
